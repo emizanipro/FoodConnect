@@ -1,0 +1,20 @@
+{
+    "locales": [
+      {
+        "id": 1,
+        "nombre": "pancho_primero",
+        "contraseña":"1234"
+      },
+      {
+        "id": 2,
+        "nombre": "pichon_pizas",
+        "contraseña":"1234"
+      },
+      {
+        "id": 3,
+        "nombre": "punto_sabroso",
+        "contraseña":"1234"
+      }
+    ]
+  }
+  
