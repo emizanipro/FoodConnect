@@ -33,7 +33,7 @@ app.post('/login', (req, res) => {
 
 // Nueva ruta para obtener los productos
 app.get('/productos', (req, res) => {
-  fs.readFile('./Server/data/productos.json', 'utf8', (err, data) => {
+  fs.readFile('./data/productos.json', 'utf8', (err, data) => {
     if (err) {
       console.error('Error al leer el archivo productos.json:', err);
       res.status(500).send('Error interno del servidor');
