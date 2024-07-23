@@ -4,7 +4,6 @@ import fs from 'fs';
 import cors from 'cors';
 import path from 'path';
 
-
 const app = express();
 const PORT = 3010;
 
@@ -32,7 +31,6 @@ app.post('/login', (req, res) => {
   });
 });
 
-
 // Nueva ruta para obtener los productos
 app.get('/productos', (req, res) => {
   fs.readFile('./Server/data/productos.json', 'utf8', (err, data) => {
@@ -51,8 +49,7 @@ app.get('/productos', (req, res) => {
   });
 });
 
-
-
 app.listen(PORT, () => {
   console.log(`Servidor iniciado en el puerto ${PORT}`);
 });
+
