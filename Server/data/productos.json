@@ -1,56 +1,63 @@
 {
     "productos": [
       {
-        "Nombre Local":"Pancho Primero",
+        "Nombre Local":"PANCHO PRIMERO",
         "Tipo":"Cenas Ya" ,
+        "Calidad":"⭐⭐⭐⭐⭐",
         "Nombre Producto":"Media doc. de empanadas de carne" ,
         "Detalles":"Seis unidades de empanadas caseras con relleno de picadillo a base de carne, cebolla, huevo y especias." ,
         "Precio":"5400",
         "img": "https://images.deliveryhero.io/image/pedidosya/products/779a6207-23e6-4843-a8ee-ed2eba3bcd59.jpg?quality=90&height=96&width=96&webp=1"
       },
       {
-        "Nombre Local":"Pancho Primero",
+        "Nombre Local":"PANCHO PRIMERO",
         "Tipo":"Empandas" ,
+        "Calidad":"⭐⭐⭐⭐⭐",
         "Nombre Producto":"Docena de empanadas de carne" ,
         "Detalles":"Doce unidades de empanadas caseras con relleno de picadillo a base de carne, cebolla, huevo y especias." ,
         "Precio":"10300",
         "img": "https://images.deliveryhero.io/image/pedidosya/products/779a6207-23e6-4843-a8ee-ed2eba3bcd59.jpg?quality=90&height=96&width=96&webp=1"
       },
       {
-        "Nombre Local":"Pancho Primero",
+        "Nombre Local":"PANCHO PRIMERO",
         "Tipo":"Lomos" ,
+        "Calidad":"⭐⭐",
         "Nombre Producto":"Lomo especial P 2pers" ,
         "Detalles":"Salsa de tomate, jamon, huevo, queso cheddar Y mayo casera. Pan casero elaborado tipo arabe." ,
         "Precio":"16100",
         "img": "https://images.deliveryhero.io/image/pedidosya/products/844456-8fe6c565-cc7a-4617-a49a-e2f4754c0bb9.jpg?quality=90&height=96&width=96&webp=1&dpi=1.5"
       },
       {
-        "Nombre Local":"Pancho Primero",
+        "Nombre Local":"PANCHO PRIMERO",
         "Tipo":"Lomos" ,
+        "Calidad":"⭐⭐⭐⭐⭐",
         "Nombre Producto":"Lomo pizza para 2 personas" ,
         "Detalles":"Pan casero tipo árabe, carne de lomo, salsa de tomate, jamón cocido, huevo, queso cheddar y mayonesa casera. arriba: salsa de tomate, queso mozzarella, aceitunas verdes, morrones y orégano." ,
         "Precio":"18100",
         "img": "https://images.deliveryhero.io/image/pedidosya/products/844456-8fe6c565-cc7a-4617-a49a-e2f4754c0bb9.jpg?quality=90&height=96&width=96&webp=1&dpi=1.5"
       },
       {
-        "Nombre Local":"Pancho Primero",
+        "Nombre Local":"PANCHO PRIMERO",
         "Tipo":"Lomos" ,
+        "Calidad":"⭐⭐",
         "Nombre Producto":"Lomo pizza (para 4 personas)" ,
         "Detalles":"Pan casero tipo árabe, carne de lomo, salsa de tomate, jamón cocido, huevo, queso cheddar y mayonesa casera.arriba: salsa de tomate, queso mozzarella, aceitunas verdes, morrones y orégano." ,
         "Precio":"34000",
         "img": "https://images.deliveryhero.io/image/pedidosya/products/844456-dda5bbb5-cc58-482f-95c7-c220ff503faf.jpg?quality=90&height=96&width=96&webp=1&dpi=1.5"
       },
       {
-        "Nombre Local":"Pancho Primero",
+        "Nombre Local":"PANCHO PRIMERO",
         "Tipo":"Panchos" ,
+        "Calidad":"⭐⭐⭐⭐",
         "Nombre Producto":"Pancho Pasión" ,
         "Detalles":"Cheddar, panceta y barbacoa." ,
         "Precio":"3400",
         "img": "https://images.deliveryhero.io/image/pedidosya/products/97b50906-3f21-4715-821d-889459a5d0fe.jpg?quality=90&height=96&width=96&webp=1"
       },
       {
-        "Nombre Local":"Pancho Primero",
+        "Nombre Local":"PANCHO PRIMERO",
         "Tipo":"Panchos" ,
+        "Calidad":"⭐⭐⭐⭐⭐",
         "Nombre Producto":"Pancho Simple" ,
         "Detalles":"Aderezos (mayonesa, ketchup, salsa golf, mostaza)." ,
         "Precio":"1900",
@@ -69,6 +76,7 @@
       {
         "Nombre Local":"ESTILO CAMPO" ,
         "Tipo":"Cenas Ya" ,
+        "Calidad":"⭐⭐⭐⭐",
         "Nombre Producto":"Media doc. de empanadas de carne" ,
         "Detalles":"Seis unidades de empanadas caseras con relleno de picadillo a base de carne, cebolla, huevo y especias." ,
         "Precio":"5400",
@@ -77,6 +85,7 @@
       {
         "Nombre Local":"ESTILO CAMPO" ,
         "Tipo":"Empandas" ,
+        "Calidad":"⭐⭐⭐⭐⭐",
         "Nombre Producto":"Docena de empanadas de carne" ,
         "Detalles":"Doce unidades de empanadas caseras con relleno de picadillo a base de carne, cebolla, huevo y especias." ,
         "Precio":"10300",
@@ -85,6 +94,7 @@
       {
         "Nombre Local":"ESTILO CAMPO" ,
         "Tipo":"Lomos" ,
+        "Calidad":"⭐⭐",
         "Nombre Producto":"Lomo especial P 2pers" ,
         "Detalles":"Salsa de tomate, jamon, huevo, queso cheddar Y mayo casera. Pan casero elaborado tipo arabe." ,
         "Precio":"16100",
@@ -93,6 +103,7 @@
       {
         "Nombre Local":"ESTILO CAMPO" ,
         "Tipo":"Lomos" ,
+        "Calidad":"⭐⭐⭐⭐⭐",
         "Nombre Producto":"Lomo pizza para 2 personas" ,
         "Detalles":"Pan casero tipo árabe, carne de lomo, salsa de tomate, jamón cocido, huevo, queso cheddar y mayonesa casera. arriba: salsa de tomate, queso mozzarella, aceitunas verdes, morrones y orégano." ,
         "Precio":"18100",
@@ -101,6 +112,7 @@
       {
         "Nombre Local":"ESTILO CAMPO" ,
         "Tipo":"Lomos" ,
+        "Calidad":"⭐⭐⭐⭐",
         "Nombre Producto":"Lomo pizza (para 4 personas)" ,
         "Detalles":"Pan casero tipo árabe, carne de lomo, salsa de tomate, jamón cocido, huevo, queso cheddar y mayonesa casera.arriba: salsa de tomate, queso mozzarella, aceitunas verdes, morrones y orégano." ,
         "Precio":"34000",
@@ -109,6 +121,7 @@
       {
         "Nombre Local":"ESTILO CAMPO" ,
         "Tipo":"Panchos" ,
+        "Calidad":"⭐⭐⭐⭐⭐",
         "Nombre Producto":"Pancho Pasión" ,
         "Detalles":"Cheddar, panceta y barbacoa." ,
         "Precio":"3400",
@@ -126,6 +139,7 @@
       {
         "Nombre Local":"LA PRADERA" ,
         "Tipo":"Cenas Ya" ,
+        "Calidad":"⭐⭐⭐⭐⭐",
         "Nombre Producto":"Media doc. de empanadas de carne" ,
         "Detalles":"Seis unidades de empanadas caseras con relleno de picadillo a base de carne, cebolla, huevo y especias." ,
         "Precio":"5400",
@@ -134,6 +148,7 @@
       {
         "Nombre Local":"LA PRADERA" ,
         "Tipo":"Empandas" ,
+        "Calidad":"⭐⭐⭐⭐⭐",
         "Nombre Producto":"Docena de empanadas de carne" ,
         "Detalles":"Doce unidades de empanadas caseras con relleno de picadillo a base de carne, cebolla, huevo y especias." ,
         "Precio":"10300",
@@ -142,6 +157,7 @@
       {
         "Nombre Local":"LA PRADERA" ,
         "Tipo":"Lomos" ,
+        "Calidad":"⭐⭐",
         "Nombre Producto":"Lomo especial P 2pers" ,
         "Detalles":"Salsa de tomate, jamon, huevo, queso cheddar Y mayo casera. Pan casero elaborado tipo arabe." ,
         "Precio":"16100",
@@ -150,6 +166,7 @@
       {
         "Nombre Local":"LA PRADERA" ,
         "Tipo":"Lomos" ,
+        "Calidad":"⭐⭐⭐⭐",
         "Nombre Producto":"Lomo pizza para 2 personas" ,
         "Detalles":"Pan casero tipo árabe, carne de lomo, salsa de tomate, jamón cocido, huevo, queso cheddar y mayonesa casera. arriba: salsa de tomate, queso mozzarella, aceitunas verdes, morrones y orégano." ,
         "Precio":"18100",
@@ -158,6 +175,7 @@
       {
         "Nombre Local":"LA PRADERA" ,
         "Tipo":"Lomos" ,
+        "Calidad":"⭐⭐⭐⭐⭐",
         "Nombre Producto":"Lomo pizza (para 4 personas)" ,
         "Detalles":"Pan casero tipo árabe, carne de lomo, salsa de tomate, jamón cocido, huevo, queso cheddar y mayonesa casera.arriba: salsa de tomate, queso mozzarella, aceitunas verdes, morrones y orégano." ,
         "Precio":"34000",
@@ -166,6 +184,7 @@
       {
         "Nombre Local":"LA PRADERA" ,
         "Tipo":"Panchos" ,
+        "Calidad":"⭐⭐⭐",
         "Nombre Producto":"Pancho Pasión" ,
         "Detalles":"Cheddar, panceta y barbacoa." ,
         "Precio":"3400",
