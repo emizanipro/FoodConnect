@@ -1,10 +1,12 @@
 # Proyecto de Ecommerce de Bebidas
 
-Este es un proyecto de Ecommerce de Bebidas desarrollado con React. Permite a los usuarios explorar y comprar una variedad de bebidas desde la comodidad de su hogar.
+Este es un proyecto de Ecommerce de Locales de Comidas y Locales Bebidas desarrollado con React. Permite a los usuarios explorar y comprar una variedad de bebidas desde la comodidad de su hogar.
 
 ## URL del Proyecto
 
-Puedes acceder al proyecto en la siguiente URL: [Ecommerce de Bebidas](https://emizanipro.github.io/FoodConnect/#/EcommerceBebidas)
+LOCALES DE BEBIDAS URL: [Ecommerce de Bebidas](https://emizanipro.github.io/FoodConnect/#/EcommerceBebidas)
+LOCALES DE COMIDAS URL: [Ecommerce de Comidas](https://emizanipro.github.io/FoodConnect/#/EcommerceComida)
+
 
 ## Funcionalidades
 
