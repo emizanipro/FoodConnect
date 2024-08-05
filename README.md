@@ -1,4 +1,4 @@
-# Proyecto de Ecommerce de Bebidas
+# Proyecto de Ecommerce Locales de Comidas y Locales de Bebidas
 
 Este es un proyecto de Ecommerce de Locales de Comidas y Locales Bebidas desarrollado con React. Permite a los usuarios explorar y comprar una variedad de bebidas desde la comodidad de su hogar.
 
