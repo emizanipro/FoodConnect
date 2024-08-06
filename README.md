@@ -3,9 +3,14 @@
 Este es un proyecto de Ecommerce de Locales de Comidas y Locales Bebidas desarrollado con React. Permite a los usuarios explorar y comprar una variedad de bebidas desde la comodidad de su hogar.
 
 ## URL del Proyecto
-PÁGINA PRINCIPAL DE FOOD CONNECT : URL (https://emizanipro.github.io/FoodConnect/#/)
-LOCALES DE BEBIDAS URL: [Ecommerce de Bebidas](https://emizanipro.github.io/FoodConnect/#/EcommerceBebidas)
-LOCALES DE COMIDAS URL: [Ecommerce de Comidas](https://emizanipro.github.io/FoodConnect/#/EcommerceComida)
+PÁGINA PRINCIPAL DE FOOD CONNECT: 
+<a href="https://emizanipro.github.io/FoodConnect/#/" target="_blank">https://emizanipro.github.io/FoodConnect/#/</a>
+
+LOCALES DE BEBIDAS URL: 
+<a href="https://emizanipro.github.io/FoodConnect/#/EcommerceBebidas" target="_blank">Ecommerce de Bebidas</a>
+
+LOCALES DE COMIDAS URL: 
+<a href="https://emizanipro.github.io/FoodConnect/#/EcommerceComida" target="_blank">Ecommerce de Comidas</a>
 
 
 ## Funcionalidades
